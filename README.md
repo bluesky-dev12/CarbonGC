@@ -4,7 +4,7 @@
     <img src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-30/256/Need-for-Speed-Carbon-new-1-icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">centerGeometry Compiler For Carbon</h3>
+  <h3 align="center">Geometry Compiler For Carbon</h3>
 
   <p align="center">
     This compiles geometry for NFS Carbon. 
