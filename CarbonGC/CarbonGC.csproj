@@ -9,14 +9,14 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ApplicationIcon>App.ico</ApplicationIcon>
     <AssemblyKeyContainerName />
-    <AssemblyName>mwgc</AssemblyName>
+    <AssemblyName>CarbonGC</AssemblyName>
     <AssemblyOriginatorKeyFile />
     <DefaultClientScript>JScript</DefaultClientScript>
     <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
     <DefaultTargetSchema>IE50</DefaultTargetSchema>
     <DelaySign>false</DelaySign>
     <OutputType>Exe</OutputType>
-    <RootNamespace>mwgc</RootNamespace>
+    <RootNamespace>CarbonGC</RootNamespace>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
     <StartupObject />
     <FileUpgradeFlags>
@@ -96,22 +96,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AseLib.cs">
+    <Compile Include="Core\AseLib.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="AssemblyInfo.cs">
+    <Compile Include="Res\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Compiler.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DataCollector.cs">
+    <Compile Include="Core\DataCollector.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="RawGeometry.cs">
+    <Compile Include="Core\RawGeometry.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="RealGeometry.cs">
+    <Compile Include="Core\RealGeometry.cs">
       <SubType>Code</SubType>
     </Compile>
     <Content Include="App.ico" />

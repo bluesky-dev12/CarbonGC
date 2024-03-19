@@ -3,7 +3,7 @@ using System.Collections;
 using System.IO;
 using System.Reflection;
 
-namespace mwgc.AseLib
+namespace CarbonGC.AseLib
 {
 
 	// Helpers

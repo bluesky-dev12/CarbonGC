@@ -2,11 +2,11 @@ using System;
 using System.Collections;
 using System.Globalization;
 using System.IO;
-using mwgc.AseLib;
-using mwgc.RawGeometry;
-using mwgc.RealEngine;
+using CarbonGC.AseLib;
+using CarbonGC.RawGeometry;
+using CarbonGC.RealEngine;
 
-namespace mwgc
+namespace CarbonGC
 {
 	public class UniqueList
 	{

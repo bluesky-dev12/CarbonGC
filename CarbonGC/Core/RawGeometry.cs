@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace mwgc.RawGeometry
+namespace CarbonGC.RawGeometry
 {
 	public struct RawString
 	{

@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 
-namespace mwgc.RealEngine
+namespace CarbonGC.RealEngine
 {
 
 	public enum RealType : uint
