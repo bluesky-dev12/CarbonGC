@@ -96,9 +96,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core\AseLib.cs">
+    <Compile Include="Core\FileFormats\AseLib.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Core\FileFormats\FBX.cs" />
+    <Compile Include="Core\FileFormats\Obj.cs" />
     <Compile Include="Res\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

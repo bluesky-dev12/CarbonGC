@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.IO;
 using System.Reflection;
-using CarbonGC.AseLib;
+using CarbonGC.Core.FileFormats;
 using CarbonGC.RawGeometry;
 using CarbonGC.RealEngine;
 
