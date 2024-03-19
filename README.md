@@ -28,7 +28,7 @@
 
 * **BlueSkyWestSide** - *Fixes for making it compile.* 
 
-* **HeyItsleo** - *For forking the tool.* - [NFSTOOLS](https://github.com/NFSTools/mwgc) 
+* **HeyItsleo** - *For forking the tool.* - [NFSTools](https://github.com/NFSTools/mwgc) 
 
 * **Nlgxzef**  - *Fixes.* - [Nlgxzef](https://github.com/nlgxzef/mwgc) 
 
