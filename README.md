@@ -8,7 +8,7 @@
 
   <p align="center">
     This compiles geometry for NFS Carbon. 
-    If sucessfull we will add more games into it.
+    If sucessfull we will add more games into it. For now it's just in wip doesn't work at all. 
     <br/>
     <br/>
   </p>
